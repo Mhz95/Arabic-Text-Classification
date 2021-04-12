@@ -5,3 +5,6 @@ This project is the last phase of the **Tadawul Arabic-English Text Processing a
 The project is for educational purposes,
 it is currently in development and comes with no warranties.
 
+
+- [Tadawul Crawler](https://github.com/Mhz95/Tadawul-Crawler)
+- [Arabic-Text-Indexer](https://github.com/Mhz95/Arabic-Text-Indexer)
